@@ -1,11 +1,5 @@
 ## Oilá! Aqui é o Daniel
 
-<div>
-  <a href="https://github.com/danielspiker">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danielspiker&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danielspiker&layout=compact&langs_count=7&theme=merko"/>
-</div>
-
 ## Me encontre em:
   
 <div>
